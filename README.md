@@ -4,20 +4,20 @@ To design and develop a Business Dashboard that visualizes customer satisfaction
 To enable businesses to monitor performance, understand trends, and improve customer experience strategically.
 
 ## KPIs
-Total Orders
-Total Quantity
-Total Amount
-Avg. Rating
-Avg. Days to Deliver
+- Total Orders
+- Total Quantity
+- Total Amount
+- Avg. Rating
+- Avg. Days to Deliver
 
 ## Questions 
-Trend in the last 13 weeks
-How our customers like to buy
-How many they buy?
-Which products are popular?
-Overall gender split
-How long we take to ship the orders
-How happy are our customers?
+- Trend in the last 13 weeks
+- How our customers like to buy
+- How many they buy?
+- Which products are popular?
+- Overall gender split
+- How long we take to ship the orders
+- How happy are our customers?
 
 ## Dataset used
 - <a href="https://github.com/kavyaprabhaa/Customer-dashboard/blob/main/Excel%20Project.xlsx">dataset</a>
